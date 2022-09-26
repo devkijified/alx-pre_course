@@ -1,1 +1,1 @@
-new README file
+Coding is fun, Kiji is having fun
